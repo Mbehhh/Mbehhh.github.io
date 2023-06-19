@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45521&extension=m3u8&play_token=w0n8UrkyS1
+https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687180202-0-0-3cfa1243c78e6b2f78ca6e275c200caa&user_session_id=0ca7749a5713db3cc908862246772cd2
