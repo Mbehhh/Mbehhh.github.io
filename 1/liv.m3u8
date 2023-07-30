@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull.niues.live/live/stream-231997_lhd.m3u8?auth_key=1689786710-0-0-5bb17307482f92c18dea216272053890
+https://live-production.secureswiftcontent.com/exp=1690717907~acl=/hls-p/ingest_7916_*/*~hmac=3cbe60fe03fc6f1d57de27da0cda761f170a00ffcb86105351bfa69779993f4c/hls-p/ingest_7916_720p/index.m3u8
