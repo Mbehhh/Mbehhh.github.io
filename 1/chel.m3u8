@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://live-ak.vimeocdn.com/exp=1690744355~acl=%2Fa0cda919-b30d-46eb-ad61-d07e68db0972%2F%2A~hmac=5b1b3b18e7e313d5e15181d469a1bfd12ab3d16461a79cf8b3899a20121a03bf/a0cda919-b30d-46eb-ad61-d07e68db0972/hls.m3u8
+https://storage.googleapis.com/zuubbknr/mux_video_ts/index-1.m3u8
